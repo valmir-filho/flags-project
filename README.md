@@ -1,7 +1,7 @@
-HTML Flags Project by 2023 Web Development Bootcamp Repository from Udemy.
+# HTML Flags Project by 2023 Web Development Bootcamp Repository from Udemy.
 
-Content:
+## Content:
 
-HTML Flags Project developed by Dr. Angela Yu from Udemy.
+- HTML Flags Project developed by Dr. Angela Yu from Udemy.
 
-Used IDE: Visual Studio Code.
+### Used IDE: Visual Studio Code.
